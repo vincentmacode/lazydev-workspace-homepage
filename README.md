@@ -1,0 +1,1 @@
+## A homepage for lazy devs
